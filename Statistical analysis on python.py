@@ -1,7 +1,6 @@
 import numpy as np, pandas as pd
 import statistics as st
 import statsmodels.api as sm
-import RamiFunctions as RF, statsmodels.formula.api as smf
 # from yahoofinancials import YahooFinancials
 import statsmodels.tsa.api as smt
 
